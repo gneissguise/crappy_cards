@@ -1,0 +1,8 @@
+This is my solution to exercise 45 of Zed Shaw's "Learn Ruby the Hard Way".  I chose to make a little card game instead of a text 
+adventure game.  I'm commiting this to a public repo firstly to practice git, and secondly to serve as a benchmark to look back on as I 
+progress down the path of learning Ruby.
+
+The code works, but it may no be optimal.  I tend to make things a little more procedural when I get stuck on a problem due to my past 
+programming experiences.  However I am trying to do things more the Ruby way. One improvement I can see right now is breaking out the 
+commands with a little meta-programming instead of that nasty looking case statement.  It will be interesting to see how much more I 
+could improve upon this as I learn more and gain experience.
